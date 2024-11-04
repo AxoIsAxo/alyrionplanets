@@ -1,0 +1,11 @@
+{
+  "dimension": "pack_id:planet_id",
+  "gravity": 9.807,
+  "orbit": "pack_id:orbit_id",
+  "oxygen": true,
+  "solar_power": 16,
+  "solar_system": "ad_astra:solar_system",
+  "temperature": 15,
+  "tier": 1,
+  "additional_launch_dimensions": []
+}
