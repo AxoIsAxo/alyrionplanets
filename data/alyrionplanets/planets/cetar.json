@@ -1,11 +1,11 @@
 {
-  "dimension": "pack_id:planet_id",
+  "dimension": "alyrionplanets:cetar",
   "gravity": 9.807,
-  "orbit": "pack_id:orbit_id",
-  "oxygen": true,
+  "orbit": "ad_astra:earth_orbit",
+  "oxygen": false,
   "solar_power": 16,
   "solar_system": "ad_astra:solar_system",
-  "temperature": 15,
+  "temperature": 1,
   "tier": 1,
   "additional_launch_dimensions": []
 }
