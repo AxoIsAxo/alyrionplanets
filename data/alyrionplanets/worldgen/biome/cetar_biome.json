@@ -1,0 +1,25 @@
+{
+  "temperature": 0.1,
+  "downfall": 1,
+  "has_precipitation": true,
+  "temperature_modifier": "frozen",
+  "creature_spawn_probability": 0,
+  "effects": {
+    "sky_color": 15790335,
+    "fog_color": 8553090,
+    "water_color": 13028828,
+    "water_fog_color": 6579330
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [
+      "minecraft:iceberg_packed",
+      "minecraft:iceberg_blue",
+      "minecraft:pile_ice"
+    ],
+    "minecraft:ice_patch",
+    "minecraft:disk_clay"
+  ]
+}
